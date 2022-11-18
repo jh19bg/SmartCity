@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\assets",
+    "\\assets\\scss",
+    "\\assets\\scss\\core",
+    "\\assets\\scss\\settings",
+    "\\components",
+    "\\components\\sections",
+    "\\components\\sections\\partials",
+    "\\views"
+  ],
+  "PreviewInSolutionExplorer": false
+}
