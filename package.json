@@ -12,7 +12,8 @@
     "react-player": "^2.11.0",
     "react-router-dom": "^5.3.4",
     "react-scripts": "^3.4.4",
-    "sass": "^1.49.7"
+    "sass": "^1.49.7",
+    "yarn": "^1.22.19"
   },
   "repository": {
     "type": "git",
