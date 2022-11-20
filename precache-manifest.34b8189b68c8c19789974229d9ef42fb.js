@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7fceb6ec4e62324f09401dee113a5cd",
+    "revision": "7bb601ddbc6e872ea53b19bd2db24f74",
     "url": "/SmartCity/index.html"
   },
   {
