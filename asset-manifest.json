@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SmartCity/static/css/main.21d52be8.chunk.css",
-    "main.js": "/SmartCity/static/js/main.aeffdc5d.chunk.js",
-    "main.js.map": "/SmartCity/static/js/main.aeffdc5d.chunk.js.map",
+    "main.js": "/SmartCity/static/js/main.fbc8ce9b.chunk.js",
+    "main.js.map": "/SmartCity/static/js/main.fbc8ce9b.chunk.js.map",
     "runtime-main.js": "/SmartCity/static/js/runtime-main.98065999.js",
     "runtime-main.js.map": "/SmartCity/static/js/runtime-main.98065999.js.map",
     "static/js/2.210823f4.chunk.js": "/SmartCity/static/js/2.210823f4.chunk.js",
     "static/js/2.210823f4.chunk.js.map": "/SmartCity/static/js/2.210823f4.chunk.js.map",
     "index.html": "/SmartCity/index.html",
-    "precache-manifest.34b8189b68c8c19789974229d9ef42fb.js": "/SmartCity/precache-manifest.34b8189b68c8c19789974229d9ef42fb.js",
+    "precache-manifest.e13c8ae1f83ba050d11d89da9986a88b.js": "/SmartCity/precache-manifest.e13c8ae1f83ba050d11d89da9986a88b.js",
     "service-worker.js": "/SmartCity/service-worker.js",
     "static/css/main.21d52be8.chunk.css.map": "/SmartCity/static/css/main.21d52be8.chunk.css.map",
     "static/js/2.210823f4.chunk.js.LICENSE.txt": "/SmartCity/static/js/2.210823f4.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.98065999.js",
     "static/js/2.210823f4.chunk.js",
     "static/css/main.21d52be8.chunk.css",
-    "static/js/main.aeffdc5d.chunk.js"
+    "static/js/main.fbc8ce9b.chunk.js"
   ]
 }
