@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4789251574520ad846af912b90b3db45",
+    "revision": "45ac1d90a6063bf729a133a5e04eea8d",
     "url": "/SmartCity/index.html"
   },
   {
-    "revision": "d8159d426c06e7ae483e",
+    "revision": "5c8c6eb03ee402ef893a",
     "url": "/SmartCity/static/css/main.21d52be8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SmartCity/static/js/2.210823f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8159d426c06e7ae483e",
-    "url": "/SmartCity/static/js/main.d59268e4.chunk.js"
+    "revision": "5c8c6eb03ee402ef893a",
+    "url": "/SmartCity/static/js/main.fe0e3716.chunk.js"
   },
   {
     "revision": "b7ccda584726c3ac15c6",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SmartCity/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/SmartCity/static/media/features-split-image-01.d9cb99ce.png"
+    "revision": "78f971cb40eaeb9a882c9269f7a1dda2",
+    "url": "/SmartCity/static/media/features-split-image-01.78f971cb.png"
   },
   {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/SmartCity/static/media/features-split-image-02.3c569239.png"
+    "revision": "12710b707c2eb5c2568c8ec431e22294",
+    "url": "/SmartCity/static/media/features-split-image-02.12710b70.png"
   },
   {
     "revision": "87e4d053756c60c9f421195d8eafdbfe",
