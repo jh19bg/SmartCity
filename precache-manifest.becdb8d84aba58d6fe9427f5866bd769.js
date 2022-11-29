@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a324843edad7412abf1e73ec51cce87",
+    "revision": "b3a75a37f9535a976b496c488ce44eb5",
     "url": "/SmartCity/index.html"
   },
   {
-    "revision": "d8e0fa2faf014252e495",
+    "revision": "fa29b7a8caee8d3e1b9c",
     "url": "/SmartCity/static/css/main.21d52be8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SmartCity/static/js/2.210823f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8e0fa2faf014252e495",
-    "url": "/SmartCity/static/js/main.e350a99e.chunk.js"
+    "revision": "fa29b7a8caee8d3e1b9c",
+    "url": "/SmartCity/static/js/main.23dc628d.chunk.js"
   },
   {
     "revision": "b7ccda584726c3ac15c6",
