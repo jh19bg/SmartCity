@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3a75a37f9535a976b496c488ce44eb5",
+    "revision": "494cc73e6d7efe858264d4524b195a39",
     "url": "/SmartCity/index.html"
   },
   {
-    "revision": "fa29b7a8caee8d3e1b9c",
+    "revision": "4de50f53223581389487",
     "url": "/SmartCity/static/css/main.21d52be8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SmartCity/static/js/2.210823f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fa29b7a8caee8d3e1b9c",
-    "url": "/SmartCity/static/js/main.23dc628d.chunk.js"
+    "revision": "4de50f53223581389487",
+    "url": "/SmartCity/static/js/main.590a7cf8.chunk.js"
   },
   {
     "revision": "b7ccda584726c3ac15c6",
@@ -74,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2810a88b1d6365b363caeabe678f1629",
     "url": "/SmartCity/static/media/logo.2810a88b.svg"
+  },
+  {
+    "revision": "44dcc51931837ca786434b334aad9f00",
+    "url": "/SmartCity/static/media/smartCity.44dcc519.png"
   }
 ]);
