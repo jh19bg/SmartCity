@@ -13,9 +13,9 @@ const Home = () => {
   return (
     <>
       <Hero className="illustration-section-01" />
+      <Testimonial topDivider />
       <FeaturesTiles topDivider />
       <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
-      <Testimonial topDivider />
       <Legal topDivider />
       <CaseStudies topDivider />
       <Cta topDivider />

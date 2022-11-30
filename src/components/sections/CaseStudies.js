@@ -54,7 +54,13 @@ const Cta = ({
             <h2>Case Studies</h2>
         </div>
 
-        <p>- Link to PDF Here -</p>
+              <p>
+                  <a href="https://drive.google.com/file/d/1oSCzzYh-JL8PMkPu92jMHTwLEx-JKrOm/view?usp=share_link" download>Singapore</a>
+              </p>
+
+              <p>
+                  <a href="https://drive.google.com/file/d/1A5_bb0ugsZuO94UKUsdSQe7XcQ1CyMw0/view?usp=share_link" download>Zurich</a>
+              </p>
 
           </center>
           <br></br>

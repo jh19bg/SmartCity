@@ -2,6 +2,7 @@ import React from 'react';
 import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
+import Image from '../elements/Image';
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -44,8 +45,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Impacts on Business/Process/Industry',
-    paragraph: 'Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.'
+    title: 'How it Works',
+      paragraph: 'Smart cities work by developing a technology base of connected networks and IoT devices. The data collected is used to adopt new standards and decisions, leading to physical and social change and benefits for the citizens and government.'
   };
 
   return (
@@ -54,13 +55,24 @@ const Testimonial = ({
       className={outerClasses}
     >
       <div className="container">
-        <div className={innerClasses}>
-          <SectionHeader data={sectionHeader} className="center-content" />
-          <div className={tilesClasses}>
+              <div className={innerClasses}>
+                  <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
+                      <SectionHeader data={sectionHeader} className="center-content" />
 
+                  </p>
+                  <div className={tilesClasses}>
+                      <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
+                          <Image
+                              src={require('./../../assets/images/smartCity.png')}
+                              alt="Features tile icon 01"
+                              width={900}
+                              height={1140} />
+                      </p>
           </div>
         </div>
-      </div>
+          </div>
+
+
     </section>
   );
 }

@@ -43,7 +43,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Made by <a href="mailto:jh19bg@fsu.edu">Jon Hair</a>. </div>
+                      <div className="footer-copyright">Design and content: <a href="mailto:jh19bg@fsu.edu">Jon Hair</a> | <a href="mailto:kag22f@fsu.edu">Kyle Gray</a> | <a href="mailto:krw20bl@fsu.edu">Kate Wadlinger</a> </div>
           </div>
         </div>
       </div>
