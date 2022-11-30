@@ -70,7 +70,7 @@ const Testimonial = ({
                 </div>
                               <p className="text-sm mb-0">
                                   <br></br>
-                                      — Smart Cities collect massive amounts of data which leaves some citizens worried about exactly what is being collected and how this data is being used or sold to third-parties.
+                                      — Smart Cities collect massive amounts of data, which leaves some citizens worried about exactly what is being collected and how this data is being used or sold to third-parties.
                   </p>
               </div>
             </div>
